@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @seanhui-dev
 - 👀 I’m interested in Web
 - 🌱 I’m currently learning HTML/CSS/JS  Python PHP
-- 📫 How to reach me ?
+- 📫 How to reach me ?<br>
 You can rech me on:<br>
 Email:  seanhui520@gmail.com<br>
 QQ:  3348626299
