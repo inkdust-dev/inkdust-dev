@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning HTML/CSS/JS  Python PHP
 - 📫 How to reach me ?<br>
 You can rech me on:<br>
-Email:  seanhui520@gmail.com<br>
-QQ:  3348626299
+Email:  ink-dust@outlook.com<br>
+Twitter:  [@Inkdust-dev](https://twitter.com/Inkdust_dev)
 
 <!---
 seanhui-dev/seanhui-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
